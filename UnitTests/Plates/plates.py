@@ -33,5 +33,5 @@ def is_valid(s):
     return True
 
 
-# Run the main function
-main()
+if __name__ == "__main__":
+    main()
