@@ -23,18 +23,14 @@ Aby uruchomić programy w tym repozytorium, musisz mieć zainstalowane:
 
 1. Sklonuj to repozytorium na swój lokalny komputer:
 
-   ```bash
    git clone https://github.com/TwojaNazwaUzytkownika/nazwa-repozytorium.git
 
     Przejdź do folderu z interesującym Cię projektem:
-
-    bash
 
 cd nazwa-folderu
 
 Uruchom program:
 
-bash
 
     python3 nazwa_programu.py
 
