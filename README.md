@@ -1,6 +1,6 @@
 # Repozytorium CS50 Python
 
-Witaj w repozytorium zawierającym programy stworzone w trakcie kursu **CS50: Introduction to Computer Science** z użyciem języka **Python**. Kurs ten oferuje solidne podstawy programowania oraz zasady projektowania algorytmów, a także praktyczne umiejętności, które można zastosować w różnych dziedzinach.
+Witaj w repozytorium zawierającym programy stworzone w trakcie kursu **CS50: Programming with Python** z użyciem języka **Python**. Kurs ten oferuje solidne podstawy programowania oraz zasady projektowania algorytmów, a także praktyczne umiejętności, które można zastosować w różnych dziedzinach.
 
 ## Zawartość
 
