@@ -34,6 +34,3 @@ Uruchom program:
 
     python3 nazwa_programu.py
 
-Wkład
-
-Jeśli chcesz wnieść swój wkład w projekt lub masz pomysły na jego rozwój, czuj się swobodnie, aby otworzyć pull requesta. Każda pomoc jest mile wid
